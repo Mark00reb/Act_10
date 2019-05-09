@@ -43,3 +43,7 @@ q=rand()
 
 line3 = "Random generated number: " + str(q)
 print(line3)
+
+r= int(q / p)
+line4 = "Number of strings to generate: " + str(r)
+print(line4)
